@@ -1,0 +1,12 @@
+
+
+  {
+    "tables": {
+      "weather": {
+        "columns": [
+          "MinTemp", "MaxTemp", "Rainfall", "Humidity9am", "Humidity3pm",
+          "WindSpeed9am", "WindSpeed3pm", "RainToday", "RainTomorrow"
+        ]
+      }
+    }
+  }
